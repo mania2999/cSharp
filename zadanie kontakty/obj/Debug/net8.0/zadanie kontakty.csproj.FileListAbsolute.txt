@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\program\zadanie kontakty\bin\Debug\net8.0\zadanie kontakty.exe
+C:\Users\maria\source\repos\program\zadanie kontakty\bin\Debug\net8.0\zadanie kontakty.deps.json
+C:\Users\maria\source\repos\program\zadanie kontakty\bin\Debug\net8.0\zadanie kontakty.runtimeconfig.json
+C:\Users\maria\source\repos\program\zadanie kontakty\bin\Debug\net8.0\zadanie kontakty.dll
+C:\Users\maria\source\repos\program\zadanie kontakty\bin\Debug\net8.0\zadanie kontakty.pdb
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.AssemblyInfo.cs
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.sourcelink.json
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.dll
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\refint\zadanie kontakty.dll
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.pdb
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\zadanie kontakty.genruntimeconfig.cache
+C:\Users\maria\source\repos\program\zadanie kontakty\obj\Debug\net8.0\ref\zadanie kontakty.dll

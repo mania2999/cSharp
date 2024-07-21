@@ -12,3 +12,4 @@ C:\Users\maria\source\repos\program\program\obj\Debug\net8.0\refint\program.dll
 C:\Users\maria\source\repos\program\program\obj\Debug\net8.0\program.pdb
 C:\Users\maria\source\repos\program\program\obj\Debug\net8.0\program.genruntimeconfig.cache
 C:\Users\maria\source\repos\program\program\obj\Debug\net8.0\ref\program.dll
+C:\Users\maria\source\repos\program\program\obj\Debug\net8.0\program.sourcelink.json
