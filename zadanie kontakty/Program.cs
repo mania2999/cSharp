@@ -73,7 +73,7 @@ namespace Main
                         }
 
                         break;
-                    case "4":
+                    case "4":       
                         Console.WriteLine("select name");
                         UserName = Console.ReadLine();
                         SelectedName = contacts.FirstOrDefault(c => c.Name == UserName);

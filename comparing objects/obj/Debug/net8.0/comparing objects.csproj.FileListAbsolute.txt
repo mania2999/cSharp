@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\program\comparing objects\bin\Debug\net8.0\comparing objects.exe
+C:\Users\maria\source\repos\program\comparing objects\bin\Debug\net8.0\comparing objects.deps.json
+C:\Users\maria\source\repos\program\comparing objects\bin\Debug\net8.0\comparing objects.runtimeconfig.json
+C:\Users\maria\source\repos\program\comparing objects\bin\Debug\net8.0\comparing objects.dll
+C:\Users\maria\source\repos\program\comparing objects\bin\Debug\net8.0\comparing objects.pdb
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.AssemblyInfo.cs
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.sourcelink.json
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.dll
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\refint\comparing objects.dll
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.pdb
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\comparing objects.genruntimeconfig.cache
+C:\Users\maria\source\repos\program\comparing objects\obj\Debug\net8.0\ref\comparing objects.dll
